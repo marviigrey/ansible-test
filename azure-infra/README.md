@@ -1,0 +1,1 @@
+ARM templates is a way of communicating with azure resource manager using a template written in json. These help us to provision resources on our infrastructure with ease.
